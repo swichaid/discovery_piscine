@@ -1,4 +1,4 @@
-#!/home/swichaid/Desktop/python3/.venv/bin/python
+#!/home/swichaid/Desktop/python3/.venv/bin/python3
 try:
     a = int(input("Enter the first number: "))
     b = int(input("Enter the second number: "))

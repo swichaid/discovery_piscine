@@ -1,3 +1,4 @@
+number = float(input())
 if number == 0:
     print("This number equal zero")
 else:

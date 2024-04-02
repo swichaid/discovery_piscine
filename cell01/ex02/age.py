@@ -1,4 +1,3 @@
 age = 26
-a = 42
-my_age = age + a
+my_age = age + 42
 print(my_age)

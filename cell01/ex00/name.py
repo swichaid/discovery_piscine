@@ -1,4 +1,3 @@
-msg = 'Wichaidit'
-msg2 = 'Setthauwut'
-whole_name = (msg,msg2)
-print(whole_name)
+first_name = "Setthawut"
+last_name = "Wichaidit"
+print(first_name,last_name)

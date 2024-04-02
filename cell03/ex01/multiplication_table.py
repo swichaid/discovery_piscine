@@ -1,4 +1,4 @@
-#!/home/swichaid/Desktop/python3/.venv/bin/python
+#!/home/swichaid/Desktop/python3/.venv/bin/python3
 num = int(input('Enter number:\n'))
 def table():
     for i in range (0,10):

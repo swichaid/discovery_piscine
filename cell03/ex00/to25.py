@@ -1,3 +1,4 @@
+#!/home/swichaid/Desktop/python3/.venv/bin/python3
 a = int(input('Enter number less than:\n '))
 def table():
         if a <= 25 :

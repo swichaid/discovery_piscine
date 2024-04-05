@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 import sys
-param = sys.argv[1:]
+param = sys.argv[1: ]
     
-if not param:
+if len(sys.argv) <= 1:
         print("none")
 else:
     print("parameters:", len(param))
     for i in param:
-        print(i, len(i))
+        print(f"{i}:", len(i))
